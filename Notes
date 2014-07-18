@@ -1,0 +1,8 @@
+It is based on C and uses some old libraries of Turbo C++ such as graphics.h
+
+We have taken two open source data.
+First one is Crime Against Women in India from 2001 t0 2012.
+http://data.gov.in/catalog/crime-against-women#web_catalog_tabs_block_10
+
+and the other one is Total No of persons injured in Road Accidents in India from 2003 to 2011.
+http://data.gov.in/catalog/total-number-persons-injured-road-accidents-india#web_catalog_tabs_block_10
